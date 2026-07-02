@@ -5,6 +5,7 @@ Sou graduado em Ciências Biológicas e atualmente mestrando em Oceanografia pel
 Ao longo da minha trajetória, utilizei constantemente de informações contidas nos dados para compreender fenômenos, produzir evidências e apoiar a tomada de decisão em estudos científicos e ambientais, aplicando programação, análises estatísticas e técnicas de visualização. Essa base desenvolveu em mim um pensamento analítico, científico e crítico, que aplico na resolução de problemas orientados por dados.
 
 Hoje, direciono essa experiência para um novo contexto, desenvolvendo projetos com Python, SQL, Power BI e Excel voltados a Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning, sempre com foco em investigar padrões, responder perguntas e extrair informações relevantes dos dados.
+
 ---
 
 ## Sobre mim

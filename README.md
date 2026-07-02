@@ -1,10 +1,10 @@
 # Olá! Eu sou Paulo Ricardo👋
 
-Graduado em Ciências Biológicas e atualmente mestrando em Oceanografia pela Universidade Federal de Pernambuco (UFPE). Ao longo da minha formação acadêmica e experiência profissional, desenvolvi projetos voltados à análise de dados científicos e ambientais, elaboração de relatórios técnicos e pesquisa aplicada.
+Sou graduado em Ciências Biológicas e atualmente mestrando em Oceanografia pela Universidade Federal de Pernambuco (UFPE). Ao longo da minha formação acadêmica, pesquisa e experiência profissional, desenvolvi um forte interesse pela utilização de dados como ferramenta para compreender problemas, gerar evidências e apoiar a tomada de decisão.
 
-Atualmente concentro meus estudos e projetos no desenvolvimento de soluções em Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning, utilizando ferramentas como Python, SQL, Power BI e Excel para transformar dados em informações que apoiem a tomada de decisão.
+Essa trajetória me levou a aprofundar conhecimentos em Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning, aplicando Python, SQL, Power BI e Excel no desenvolvimento de soluções voltadas à análise, processamento e visualização de dados.
 
-Neste perfil compartilho projetos desenvolvidos com foco em análise, visualização, processamento e modelagem de dados, sempre buscando aplicar boas práticas de documentação e organização dos projetos.
+Neste perfil compartilho projetos que refletem essa trajetória, reunindo técnicas de análise de dados, visualização, automação, integração de dados e modelagem preditiva, sempre com foco na resolução de problemas por meio de dados.
 
 ---
 

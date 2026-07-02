@@ -2,19 +2,18 @@
 
 Sou graduado em Ciências Biológicas e atualmente mestrando em Oceanografia pela Universidade Federal de Pernambuco (UFPE), formação que me proporcionou uma sólida base em análise de dados, métodos estatísticos e pesquisa científica.
 
-Ao longo da minha trajetória, utilizei constantemente de informações contidas nos dados para compreender fenômenos, produzir evidências e apoiar a tomada de decisão em estudos científicos e ambientais, aplicando programação, análises estatísticas e técnicas de visualização.
+Ao longo da minha trajetória, utilizei constantemente de informações contidas nos dados para compreender fenômenos, produzir evidências e apoiar a tomada de decisão em estudos científicos e ambientais, aplicando programação, análises estatísticas e técnicas de visualização. Essa base desenvolveu em mim um pensamento analítico, científico e crítico, que aplico na resolução de problemas orientados por dados.
 
 Hoje, direciono essa experiência para um novo contexto, desenvolvendo projetos com Python, SQL, Power BI e Excel voltados a Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning, sempre com foco em investigar padrões, responder perguntas e extrair informações relevantes dos dados.
-
 ---
 
 ## Sobre mim
 
-- 🎓 Bacharel em Ciências Biológicas - UFPE
-- 🌊 Mestrando em Oceanografia — UFPE
-- 📊 Experiência com análise de dados científicos e ambientais
-- 📈 Atuação em projetos de Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning
-- 💻 Desenvolvimento de soluções utilizando Python, SQL, Power BI e Microsoft Excel
+- 🎓 Bacharel em Ciências Biológicas e mestrando em Oceanografia pela UFPE
+- 🔬 Base sólida em pesquisa científica, métodos estatísticos e análise de dados
+- 🧠 Pensamento analítico, científico e crítico aplicado à resolução de problemas
+- 📊 Projetos em Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning
+- 💻 Python • SQL • Power BI • Microsoft Excel
 
 ---
 

@@ -70,27 +70,6 @@ Pipeline ETL desenvolvido em Python integrando CSV, API REST e Inteligência Art
 
 ---
 
-## Formação
-
-**Universidade Federal de Pernambuco (UFPE)**
-
-- Mestrado em Oceanografia
-
-- Bacharelado em Ciências Biológicas
-
----
-
-## Atualmente estudando
-
-- Engenharia de Dados
-- Machine Learning
-- Business Intelligence
-- Estatística aplicada à Ciência de Dados
-- Arquitetura de Dados
-- Visualização de Dados
-
----
-
 ## Contato
 
 💼 LinkedIn

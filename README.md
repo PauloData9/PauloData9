@@ -1,10 +1,10 @@
 # Olá! Eu sou Paulo Ricardo👋
 
-Sou graduado em Ciências Biológicas e atualmente mestrando em Oceanografia pela Universidade Federal de Pernambuco (UFPE). Ao longo da minha formação acadêmica, pesquisa e experiência profissional, desenvolvi um forte interesse pela utilização de dados como ferramenta para compreender problemas, gerar evidências e apoiar a tomada de decisão.
+Sou graduado em Ciências Biológicas e atualmente mestrando em Oceanografia pela Universidade Federal de Pernambuco (UFPE). Ao longo da minha formação acadêmica, pesquisa e experiência profissional, sempre utilizei dados para compreender fenômenos, gerar evidências e apoiar a tomada de decisão.
 
-Essa trajetória me levou a aprofundar conhecimentos em Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning, aplicando Python, SQL, Power BI e Excel no desenvolvimento de soluções voltadas à análise, processamento e visualização de dados.
+Minha trajetória foi construída analisando dados científicos e ambientais, desenvolvendo estudos, elaborando relatórios técnicos e transformando informações em conhecimento aplicável. Hoje, aplico essa mesma abordagem em um novo contexto, utilizando dados para resolver problemas de negócio por meio de Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning.
 
-Neste perfil compartilho projetos que refletem essa trajetória, reunindo técnicas de análise de dados, visualização, automação, integração de dados e modelagem preditiva, sempre com foco na resolução de problemas por meio de dados.
+Neste perfil compartilho projetos que refletem essa trajetória, reunindo análise de dados, visualização, automação, integração de dados e modelagem preditiva, sempre com foco em investigar padrões, responder perguntas e extrair informações relevantes dos dados.
 
 ---
 
@@ -24,24 +24,18 @@ Neste perfil compartilho projetos que refletem essa trajetória, reunindo técni
 
 - Python
 - SQL
-- DAX
 
 **Business Intelligence**
 
 - Power BI
 - Microsoft Excel
-- Power Query
 
-**Banco de Dados**
-
-- PostgreSQL
-
-**Análise de Dados**
+**Bibliotecas**
 
 - Pandas
-- NumPy
-- Matplotlib
+- Numpy
 - Scikit-learn
+- Matplotlib
 
 **Versionamento**
 

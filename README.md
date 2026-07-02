@@ -1,17 +1,17 @@
 # Olá! Eu sou Paulo Ricardo👋
 
-Sou graduado em Ciências Biológicas e atualmente mestrando em Oceanografia pela Universidade Federal de Pernambuco (UFPE). Ao longo da minha formação acadêmica, pesquisa e experiência profissional, sempre utilizei dados para compreender fenômenos, gerar evidências e apoiar a tomada de decisão.
+Sou graduado em Ciências Biológicas e atualmente mestrando em Oceanografia pela Universidade Federal de Pernambuco (UFPE), formação que me proporcionou uma sólida base em análise de dados, métodos estatísticos e pesquisa científica.
 
-Minha trajetória foi construída analisando dados científicos e ambientais, desenvolvendo estudos, elaborando relatórios técnicos e transformando informações em conhecimento aplicável. Hoje, aplico essa mesma abordagem em um novo contexto, utilizando dados para resolver problemas de negócio por meio de Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning.
+Ao longo da minha trajetória, utilizei constantemente de informações contidas nos dados para compreender fenômenos, produzir evidências e apoiar a tomada de decisão em estudos científicos e ambientais, aplicando programação, análises estatísticas e técnicas de visualização.
 
-Neste perfil compartilho projetos que refletem essa trajetória, reunindo análise de dados, visualização, automação, integração de dados e modelagem preditiva, sempre com foco em investigar padrões, responder perguntas e extrair informações relevantes dos dados.
+Hoje, direciono essa experiência para um novo contexto, desenvolvendo projetos com Python, SQL, Power BI e Excel voltados a Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning, sempre com foco em investigar padrões, responder perguntas e extrair informações relevantes dos dados.
 
 ---
 
 ## Sobre mim
 
-- 🎓 Bacharel em Ciências Biológicas
-- 🌊 Mestrando em Oceanografia — Universidade Federal de Pernambuco (UFPE)
+- 🎓 Bacharel em Ciências Biológicas - UFPE
+- 🌊 Mestrando em Oceanografia — UFPE
 - 📊 Experiência com análise de dados científicos e ambientais
 - 📈 Atuação em projetos de Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning
 - 💻 Desenvolvimento de soluções utilizando Python, SQL, Power BI e Microsoft Excel

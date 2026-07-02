@@ -13,8 +13,8 @@ Neste perfil compartilho projetos que refletem essa trajetória, reunindo análi
 - 🎓 Bacharel em Ciências Biológicas
 - 🌊 Mestrando em Oceanografia — Universidade Federal de Pernambuco (UFPE)
 - 📊 Experiência com análise de dados científicos e ambientais
-- 📈 Interesse em Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning
-- 💻 Desenvolvimento de projetos utilizando Python, SQL, Power BI e Excel
+- 📈 Atuação em projetos de Data Analytics, Business Intelligence, Engenharia de Dados e Machine Learning
+- 💻 Desenvolvimento de soluções utilizando Python, SQL, Power BI e Microsoft Excel
 
 ---
 

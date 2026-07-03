@@ -46,11 +46,11 @@ Hoje, direciono essa experiência para um novo contexto, desenvolvendo projetos 
 
 ## Projetos em Destaque
 
-### 📊 Opuline Sales Dashboard (Power BI)
+### 📊 Cosmic Sales Dashboard (Power BI)
 
 Dashboard de Business Intelligence desenvolvido para uma empresa fictícia do setor de cosméticos, permitindo acompanhar indicadores estratégicos, metas, tendências, previsões, anomalias e desempenho dos produtos.
 
-🔗 https://github.com/PauloData9/opuline-sales-dashboard-powerbi
+🔗 https://github.com/PauloData9/cosmic-sales-dashboard-powerbi
 
 ---
 
